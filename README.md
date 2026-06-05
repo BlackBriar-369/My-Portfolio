@@ -1,4 +1,4 @@
-This is portfolio website where I showcase my skills, education, projects, research, and experience in prompt engineering and machine learning.
+This is my portfolio website where I showcase my skills, education, projects, research, and experience in prompt engineering and machine learning.
 <br>
 I built it using HTML, CSS, and JavaScript, with a clean, minimalistic, and responsive design.
 <br>
